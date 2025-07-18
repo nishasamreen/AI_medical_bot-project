@@ -1,1 +1,1 @@
-# AI_medical_bot-project
+# ai_medical_chatbot
